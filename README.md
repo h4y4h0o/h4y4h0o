@@ -4,11 +4,6 @@
 
 I transform complex data into actionable insights and build intelligent systems that automate real-world workflows. My expertise spans the full data science lifecycle—from exploratory data analysis and feature engineering to predictive model development.
 
-### 🔬 Research & Expertise
-- **PhD in Computer Science** (Data Science) - Paris Dauphine University
-- **Specialization:** Context-Aware Recommender Systems, Machine Learning, NLP
-- **Publications:** ICCV Workshop 2023 - 2D Cross-View Object Segmentation
-
 ### 💻 Technical Skills
 
 **Programming:** Python • Java • SQL
