@@ -29,7 +29,7 @@ Intelligent job search automation system powered by Claude AI, Python, Flask, an
 - CV-based job scoring and daily alerts
 - AI-generated tailored cover letters
 
-#### 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/h4y4h0o/spacex-landing-prediction)
+#### 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/h4y4h0o/SpaceX_Data_Analysis_Project)
 Machine learning project predicting rocket landing success (IBM Data Science Capstone)
 - Comprehensive EDA and feature engineering
 - High accuracy with SVM and Decision Tree algorithms
