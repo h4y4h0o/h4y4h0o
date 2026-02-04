@@ -48,12 +48,6 @@ Machine learning project predicting rocket landing success (IBM Data Science Cap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-vahidi-ferdousi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahra.vahidiferdousi@gmail.com)
 
-### 📊 GitHub Stats
-
-![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4y4h0o&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4y4h0o&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
 ---
 
 💡 *"Turning data into decisions, one algorithm at a time"*
