@@ -1,6 +1,6 @@
 # Hi there, I'm Zahra Vahidi Ferdousi 👋
 
-## 🎓 Data Scientist & Agentic AI Developer | PhD in Artificial Intelligence
+## 🎓 Data Scientist & Automation and Agentic AI Developer | PhD in Artificial Intelligence
 
 Data Scientist and Agentic AI Developer with PhD in Artificial Intelligence. Expertise spans the complete
 data science lifecycle: exploratory data analysis, data visualization, feature engineering, and predictive
