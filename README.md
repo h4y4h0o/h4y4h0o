@@ -1,6 +1,6 @@
 # Hi there, I'm Zahra Vahidi Ferdousi 👋
 
-## 🎓 Data Scientist & AI and Automation Engineer | PhD in Artificial Intelligence
+## 🎓 Data Scientist & AI/Automation Engineer | PhD in Artificial Intelligence
 
 Data Scientist and AI and Automation Engineer with PhD in Artificial Intelligence. Expertise spans the complete
 data science lifecycle: exploratory data analysis, data visualization, feature engineering, and predictive
