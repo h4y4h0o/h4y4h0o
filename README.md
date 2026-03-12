@@ -2,7 +2,7 @@
 
 ## 🎓 Data Scientist & AI/Automation Engineer | PhD in Artificial Intelligence
 
-Data Scientist and AI and Automation Engineer with PhD in Artificial Intelligence. Expertise spans the complete
+Data Scientist and AI/Automation Engineer with PhD in Artificial Intelligence. Expertise spans the complete
 data science lifecycle: exploratory data analysis, data visualization, feature engineering, and predictive
 modeling, to deliver actionable insights. Hands-on experiences building end-to-end automated pipeline using LLM
 orchestration, tool-use architectures, and automation frameworks (n8n). Proficient in Python, SQL, and modern AI development tools. Recently certified through top-tier programs
