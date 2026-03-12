@@ -1,10 +1,10 @@
 # Hi there, I'm Zahra Vahidi Ferdousi 👋
 
-## 🎓 Data Scientist & Automation and Agentic AI Developer | PhD in Artificial Intelligence
+## 🎓 Data Scientist & AI and Automation Engineer | PhD in Artificial Intelligence
 
-Data Scientist and Agentic AI Developer with PhD in Artificial Intelligence. Expertise spans the complete
+Data Scientist and AI and Automation Engineer with PhD in Artificial Intelligence. Expertise spans the complete
 data science lifecycle: exploratory data analysis, data visualization, feature engineering, and predictive
-modeling, to deliver actionable insights. Hands-on experience building end-to-end agentic AI solutions using LLM
+modeling, to deliver actionable insights. Hands-on experiences building end-to-end automated pipeline using LLM
 orchestration, tool-use architectures, and automation frameworks (n8n). Proficient in Python, SQL, and modern AI development tools. Recently certified through top-tier programs
 including IBM Data Science Professional Certificate & Google AI Agents Intensive (Kaggle).
 
@@ -16,11 +16,17 @@ including IBM Data Science Professional Certificate & Google AI Agents Intensive
 
 **Data Science:** Pandas • NumPy • Data Visualization (Matplotlib, Seaborn, Plotly, Dash)
 
-**Tools & Frameworks:** Git • Docker • Flask • n8n • Google Agent Development Kit
+**Tools & Frameworks:** Git • Docker • Flask • FastAPI • n8n • Google Agent Development Kit
 
 **Languages:** English (TOEIC 925) • French (Native) • Persian (Native)
 
 ### 🚀 Featured Projects
+
+#### ✈️ [AI-Powered Flight Operations Assistant](https://github.com/h4y4h0o/operational-assistant)
+End-to-end automated pipeline for flight monitoring and AI-driven incident analysis, designed for airline operations centers
+- n8n workflow orchestration with idempotent data ingestion into PostgreSQL
+- FastAPI backend integrating Groq LLM (llama-3.3-70b) for incident classification, recommended actions, and confidence scoring
+- Automated Slack alerts with operational summaries • Docker Compose local setup + Azure (AKS) deployment architecture
 
 #### 🤖 [AI Job Agent](https://github.com/h4y4h0o/ai-job-agent)
 Intelligent job search automation system powered by Claude AI, Python, Flask, and n8n
